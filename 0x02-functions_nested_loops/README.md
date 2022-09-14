@@ -14,4 +14,5 @@
 13. Nature made the natural numbers; All else is the work of women.
 14. Write a program that prints the first 50 Fibonacci numbers, starting with 1 and 2, followed by a new line.
 15. Even Liber Abbaci
+16. Write a program that finds and prints the first 98 Fibonacci numbers, starting with 1 and 2, followed by a new line.
  
