@@ -9,4 +9,5 @@
 8. Write a function that prints a square, followed by a new line.
 9. Write a program that prints the numbers from 1 to 100, followed by a new line. But for multiples of three print Fizz instead of the number and for the multiples of five print Buzz
 10. Write a function that prints a triangle, followed by a new line.
+11. The prime factors of 1231952 are 2, 2, 2, 2, 37 and 2081.
  
