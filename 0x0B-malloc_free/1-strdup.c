@@ -3,7 +3,7 @@
 
 /**
  * _strdup - returns a pointer to a newly allocated space in memeory.
- *
+ * @str - char
  * Return: pointer of an array of chars
  */
 
