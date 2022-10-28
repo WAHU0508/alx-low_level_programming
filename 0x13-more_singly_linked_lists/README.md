@@ -11,3 +11,7 @@
 |8-sum\_listint.c|Write a function that returns the sum of all the data (n) of a listint\_t linked list.|
 |9-insert\_nodeint.c|Write a function that inserts a new node at a given position.|
 |10-delete\_nodeint.c|Write a function that deletes the node at index index of a listint\_t linked list.|
+|100-reverse\_listint.c|Write a function that reverses a listint\_t linked list.|
+|101-print\_listint\_safe.c|Write a function that prints a listint\_t linked list.|
+|102-free\_listint\_safe.c|Write a function that frees a listint\_t list.|
+|103-find\_loop.c|Write a function that finds the loop in a linked list.|
