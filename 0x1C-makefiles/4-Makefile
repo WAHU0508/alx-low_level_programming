@@ -14,14 +14,14 @@ all: m.h $(OBJ)
 
 # deletes tmp files & executable
 clean:
-	$(RM) *~ $(NAME)
+	$(RM) *~  $(NAME)
+
+# deletes all (tmp files, executable, & obj files)
+fclean: clean oclean
 
 # deletes object files
 oclean:
 	$(RM) $(OBJ)
-
-# deletes all (tmp files, executable, & obj files)
-fclean: clean oclean
 
 # deletes all & recompiles all source files
 re: oclean all
