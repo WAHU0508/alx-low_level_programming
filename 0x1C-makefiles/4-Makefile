@@ -17,8 +17,8 @@ clean:
 	$(RM) *~ $(NAME)
 
 # deletes object files
- oclean:
- 	$(RM) $(OBJ)
+oclean:
+	$(RM) $(OBJ)
 
 # deletes all (tmp files, executable, & obj files)
 fclean: clean oclean
